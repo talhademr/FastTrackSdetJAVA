@@ -15,6 +15,7 @@ public class Ex05MethodChaining {
                 .equals("hello")
         );
 
+        // Alt tarafta bazı örnekler var chaining için
 
         /*
             driver.manage().window().maximize();
